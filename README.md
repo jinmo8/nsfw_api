@@ -1,5 +1,3 @@
-# nsfw_api
-基于 https://github.com/EugenCepoi/nsfw_api 修改的版本 用于检测包含成人内容的图像的 Python REST API
 # docker使用方法
 - 安装docker 查看安装教程 [安装教程](https://zhuanlan.zhihu.com/p/555680710?utm_id=0)
 - 复制下面的命令进入终端运行安装即可(两个版本选择)
